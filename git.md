@@ -39,7 +39,7 @@ commit cb9592396ed7697b044cd3dd261afca67f889051
 Author: Name <name.surname@company.email>
 Date:   Tue Mar 6 09:17:49 2018 +0200
 
-    Add option to choose driver to run RSpec system tests
+    Add Capybara driver option for system tests
     
     System tests use a method called driven_by, which is part of Rails core,
     and which manages the Capybara driver configuration. The argument to driven_by
