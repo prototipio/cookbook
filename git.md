@@ -19,7 +19,7 @@ $ git commit
 
 # => Write some text description like below:
 
-Add option to choose driver to run RSpec system tests
+Add Capybara driver option for system tests
 
 System tests use a method called driven_by, which is part of Rails core,
 and which manages the Capybara driver configuration. The argument to driven_by
