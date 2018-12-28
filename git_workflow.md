@@ -57,6 +57,17 @@ Date:   Tue Mar 6 09:17:49 2018 +0200
     pass the ENV varible before calling RSpec:
     
     DRIVEN_BY=selenium rspec spec/system
+```    
     
-    *Base article https://chris.beams.io/posts/git-commit/
-```
+* Base article https://chris.beams.io/posts/git-commit
+* Another one https://github.com/erlang/otp/wiki/writing-good-commit-messages
+* https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53
+* https://robots.thoughtbot.com/write-good-commit-messages-by-blaming-others
+* https://medium.com/@andrewhowdencom/anatomy-of-a-good-commit-message-acd9c4490437
+* https://medium.com/compass-true-north/writing-good-commit-messages-fc33af9d6321
+* https://hackernoon.com/what-makes-a-good-commit-message-995d23687ad
+* https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
+* https://code.likeagirl.io/useful-tips-for-writing-better-git-commit-messages-808770609503
+* https://johannespichler.com/why-commit-messages-matter
+
+
