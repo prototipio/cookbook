@@ -2,20 +2,22 @@
 
 If you commit simple typo fix or rename something, please use shorthand for commit message:*
 
-$ git commit -m 'Fix typo in rails_helper'
+`$ git commit -m 'Fix typo in rails_helper'`
 
 And commit will look like this one:
 
+```
 commit 797f8beea2c63e9e91c7c2bf90edc4d588704f60
 Merge: 174c666 a523113
 Author: Name <name.surname@company.email>
 Date:   Sun Mar 4 00:25:44 2018 +0200
 
     Fix typo in rails_helper
+```
     
-If you submit more valuable changes, please use full text message 
+If you submit more valuable changes, please use full text message:
 
-$ git commit
+`$ git commit`
 
 # => Write some text description like below:
 
@@ -35,6 +37,7 @@ DRIVEN_BY=selenium rspec spec/system
 
 And commit will look like this one:
 
+```
 commit cb9592396ed7697b044cd3dd261afca67f889051
 Author: Name <name.surname@company.email>
 Date:   Tue Mar 6 09:17:49 2018 +0200
@@ -54,3 +57,4 @@ Date:   Tue Mar 6 09:17:49 2018 +0200
     DRIVEN_BY=selenium rspec spec/system
     
     *Base article https://chris.beams.io/posts/git-commit/
+```
