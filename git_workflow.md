@@ -19,8 +19,9 @@ If you submit more valuable changes, please use full text message:
 
 `$ git commit`
 
-# => Write some text description like below:
+Write some text description like below:
 
+```
 Add Capybara driver option for system tests
 
 System tests use a method called driven_by, which is part of Rails core,
@@ -34,6 +35,7 @@ For example to run system tests in interactive mode, just
 pass the ENV varible before calling RSpec:
 
 DRIVEN_BY=selenium rspec spec/system
+```
 
 And commit will look like this one:
 
