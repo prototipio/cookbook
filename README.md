@@ -1,3 +1,9 @@
-# cookbook
+![Prototipio]
 
-[Git workflow](https://github.com/prototipio/cookbook/blob/master/git_workflow.md)
+# Prototipio developer's handbook
+
+For reference and discussion.
+
+## Conventions
+
+* [Git workflow](/git_wokflow)
