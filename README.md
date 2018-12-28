@@ -4,4 +4,4 @@ For reference and discussion.
 
 ## Conventions
 
-* [Git workflow](/git_wokflow.md)
+* [Git workflow](/git_workflow.md)
