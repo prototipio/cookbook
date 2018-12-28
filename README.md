@@ -1,5 +1,3 @@
-![Prototipio]
-
 # Prototipio developer's handbook
 
 For reference and discussion.
