@@ -58,7 +58,8 @@ Date:   Tue Mar 6 09:17:49 2018 +0200
     
     DRIVEN_BY=selenium rspec spec/system
 ```    
-    
+### Resources:
+Links:
 * Base article https://chris.beams.io/posts/git-commit
 * Another one https://github.com/erlang/otp/wiki/writing-good-commit-messages
 * https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53
@@ -70,4 +71,5 @@ Date:   Tue Mar 6 09:17:49 2018 +0200
 * https://code.likeagirl.io/useful-tips-for-writing-better-git-commit-messages-808770609503
 * https://johannespichler.com/why-commit-messages-matter
 
-
+Videos:
+* [RubyConf 2018 - Documentation Tradeoffs and Why Good Commits Matter by Greggory Rothmeier](https://www.youtube.com/watch?v=cdpaQ6R7100)
